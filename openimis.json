@@ -84,7 +84,7 @@
     },
         {
         "name": "ClaimModule",
-        "npm": "@openimis/fe-claim@>=v1.6.0"
+        "npm": "@openimis/fe-claim@git+https://github.com/openimis/openimis-fe_js.git#develop"
     },
         {
         "name": "ClaimBatchModule",

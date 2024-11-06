@@ -80,7 +80,7 @@
     },
         {
         "name": "PaymentModule",
-        "npm": "@openimis/fe-payment@>=v1.4.4"
+        "npm": "@openimis/fe-payment@git+https://github.com/mngoe/openimis-fe-payment_js.git#develop-comores"
     },
         {
         "name": "ClaimModule",

@@ -116,7 +116,7 @@
     },
         {
         "name": "ContributionPlanModule",
-        "npm": "@openimis/fe-contribution_plan@>=v1.7.0"
+        "npm": "@openimis/fe-contribution_plan@git+https://github.com/openimis/openimis-fe-contribution_plan_js.git#release/24.04"
     },
         {
         "name": "PaymentCycleModule",
